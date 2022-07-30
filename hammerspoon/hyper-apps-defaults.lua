@@ -4,7 +4,7 @@
 -- this file, save it as `hyper-apps.lua`, and edit the table below to configure
 -- your preferred shortcuts.
 return {
-  { 'b', 'Firefox' },         -- "B" for "Browser"
+  { 'b', 'Brave Browser' },         -- "B" for "Browser"
   { 'c', 'Telegram' },        -- "C for "Chat"
   { 'd', 'Docker' },          -- "D" for "Docker" 
   { 'e', 'Emacs' },           -- "E" for "Editor"
