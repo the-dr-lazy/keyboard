@@ -9,8 +9,7 @@ return {
   { 'd', 'Docker' },          -- "D" for "Docker" 
   { 'e', 'Emacs' },           -- "E" for "Editor"
   { 'f', 'Finder' },          -- "F" for "Finder"
-  { 'g', 'Game' },            -- "G" for "Game"
+  { 'g', 'Steam' },            -- "G" for "Game"
   { 't', 'Alacritty' },       -- "T" for "Terminal"
-  { 'v', 'OpenConnect-GUI' }, -- "V" for "VPN"
   { 'p', 'Bitwarden' },       -- "P" for "Password Manager"
 }
